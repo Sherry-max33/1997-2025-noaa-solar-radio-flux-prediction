@@ -49,7 +49,8 @@ EDA revealed several important patterns:
 Provides a linear reference model
 
 - **Artificial Neural Networks (ANN)**
-Fully connected **MLP-style neural networks** were implemented in two frameworks to ensure robustness and framework-independent understanding.  
+Fully connected **MLP-style neural networks** were implemented in two frameworks to ensure robustness and framework-independent understanding.
+
 **🔹 Keras**
 - Dense layers: 32 → 16 → 1
 - ReLU activations
